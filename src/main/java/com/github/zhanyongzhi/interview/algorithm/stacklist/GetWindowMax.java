@@ -1,3 +1,5 @@
+package com.github.zhanyongzhi.interview.algorithm.stacklist;
+
 import java.util.ArrayList;
 import java.util.Deque;
 import java.util.LinkedList;

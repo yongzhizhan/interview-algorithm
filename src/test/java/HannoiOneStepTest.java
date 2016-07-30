@@ -1,6 +1,5 @@
+import com.github.zhanyongzhi.interview.algorithm.stacklist.HannoiOneStep;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by wentian on 16/6/11.

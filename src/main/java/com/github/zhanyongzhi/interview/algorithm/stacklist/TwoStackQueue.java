@@ -1,7 +1,10 @@
+package com.github.zhanyongzhi.interview.algorithm.stacklist;
+
 import java.util.Stack;
 
 /**
- * Created by wentian on 16/6/9.
+ * 用两个栈实现队列
+ * @author zhanyongzhi
  */
 public class TwoStackQueue<T> {
     private Stack<T> pushStack = new Stack<T>();

@@ -1,5 +1,11 @@
+package com.github.zhanyongzhi.interview.algorithm.stacklist;
+
 import java.util.Stack;
 
+/**
+ * 带有getMin的栈
+ * @author zhanyongzhi
+ */
 public class GetMinStack<T extends Comparable<T>> {
     Stack<T> stack;
     Stack<T> minElementStack;

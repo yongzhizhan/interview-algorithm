@@ -1,7 +1,6 @@
+import com.github.zhanyongzhi.interview.algorithm.stacklist.TwoStackQueue;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by wentian on 16/6/10.

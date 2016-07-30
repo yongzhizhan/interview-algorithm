@@ -1,3 +1,5 @@
+package com.github.zhanyongzhi.interview.algorithm.stacklist;
+
 /**
  * 汉诺塔移动过程打印
  */

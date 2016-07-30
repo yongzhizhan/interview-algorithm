@@ -1,8 +1,7 @@
+import com.github.zhanyongzhi.interview.algorithm.stacklist.ReverseStack;
 import org.junit.Test;
 
 import java.util.Stack;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by wentian on 16/6/10.

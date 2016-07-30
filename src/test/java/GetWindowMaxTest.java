@@ -1,9 +1,8 @@
+import com.github.zhanyongzhi.interview.algorithm.stacklist.GetWindowMax;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by wentian on 16/6/11.

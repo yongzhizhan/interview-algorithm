@@ -1,3 +1,5 @@
+package com.github.zhanyongzhi.interview.algorithm.stacklist;
+
 import java.util.Stack;
 
 /**
